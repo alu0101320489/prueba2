@@ -1,6 +1,7 @@
 {
   "exclude": [
     "tests",
+    "tests_requests",
     "./node_modules",
     "./dist"
   ],
